@@ -1,22 +1,23 @@
 Resources:
 
-    Ganache: https://archive.trufflesuite.com/ganache/
+    - Ganache: https://archive.trufflesuite.com/ganache/
     - Tutorial: https://archive.trufflesuite.com/docs/ganache/how-to/workspaces/create-workspaces/
 
-    Remix: https://remix.ethereum.com/
+    - Remix: https://remix.ethereum.com/
 
-Solidity Programming Language: https://soliditylang.org/
+Tools:
+- Solidity Programming Language: https://soliditylang.org/
 
--Testnet-
-    Sepolia: 
-    - https://www.sepoliafaucet.io/
-    - https://faucet.cypherlabz.io/sepolia
+- Testnet-
+    - Sepolia: 
+        - https://www.sepoliafaucet.io/
+        - https://faucet.cypherlabz.io/sepolia
 
-Open Zeppelin
+- Open Zeppelin
     Docs: https://www.openzeppelin.com/
     Wizard: https://wizard.openzeppelin.com/
 
-MetaMask
+- MetaMask
     Docs/Download: https://metamask.io/
 
 
