@@ -3,7 +3,7 @@ Resources:
     - Ganache: https://archive.trufflesuite.com/ganache/
     - Tutorial: https://archive.trufflesuite.com/docs/ganache/how-to/workspaces/create-workspaces/
 
-    - Remix: https://remix.ethereum.com/
+    - Remix: https://remix.ethereum.org/
 
 Tools:
 - Solidity Programming Language: https://soliditylang.org/
