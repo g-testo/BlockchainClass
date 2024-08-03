@@ -19,7 +19,8 @@ Tools:
 
 - MetaMask
     Docs/Download: https://metamask.io/
-
+- Alchemy
+    Create Account: https://www.alchemy.com/
 
 Blog Deployment: 0x49d88a0cd01433B43B67F397fDe15Beeab11d62e
 Etherscan: https://sepolia.etherscan.io/
